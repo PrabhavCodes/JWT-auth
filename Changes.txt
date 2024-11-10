@@ -1,0 +1,3 @@
+did not use nvmrc file
+errorHandler.ts changed the return for errorHandler for zodErrorHandler but removing the return for the callback
+bcrypt uses try catch
